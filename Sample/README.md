@@ -6,6 +6,8 @@
 
 Write a readme
 
+![alt text](<img/Screenshot 2024-10-04 Homework Chally9.png>)
+
 ## Table of Contents 
 
 * [Installation](#installation)
@@ -47,6 +49,8 @@ To run tests, run the following command:
 ```
 npm test
 ```
+
+
 
 ## Questions
 
