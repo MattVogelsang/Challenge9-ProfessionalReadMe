@@ -6,9 +6,9 @@
 
 Write a readme
 
-![alt text](<img/Screenshot 2024-10-04 Homework Chally9.png>)
+<img src="img/Screenshot 2024-10-04 Homework Chally9.png">
 
-![alt text](<https://drive.google.com/file/d/1Fpyh4Iptxxs6qtRDbtSiOyisooTJ24-g/view?t=3>)
+<a href="https://drive.google.com/file/d/1Fpyh4Iptxxs6qtRDbtSiOyisooTJ24-g/view?t=3"> Click Here for Demo Video </a>
 
 ## Table of Contents 
 
